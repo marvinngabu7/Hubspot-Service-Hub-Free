@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+##Hubspot Service Hub Free
 
-You can use the [editor on GitHub](https://github.com/marvinngabu7/Hubspot-Service-Hub-Free/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Service Hub es el último producto de HubSpot que, junto con HubSpot CRM, Marketing and Sales, le ofrece un conjunto completo de herramientas para ayudarlo a participar, guiar y hacer crecer a sus clientes. ... Esencialmente, para eso sirve Service Hub: transformar a los clientes promedio en promotores activos de su negocio
 
-### Markdown
+Hubspot Service Hub Free posee 4 tipo de herramientas diferentes
+Para empezar tiene el CRM donde organizas tus contactos, obtienes más información sobre cada oportunidad de venta y monitoriza tus negocios con facilidad y de manera gratuita, otra herramienta es el Marketing hub donde comienzaz poco a poco con analíticas gratuitas, formularios para captar oportunidades de venta y seguimiento de contactos, la tercera herramienta es la Sales HUB que es una herramienta  que ayudarán a los representantes de ventas a conectarse con más oportunidades de ventas y cerrar más acuerdos, y por la ultima herramienta que posee es la Service hub que te permite contactar con tus clientes, supera sus expectativas y convertirlos en promotores para potenciar el crecimiento de tu empresa.Todas estas herramientas menos la primera, seran de pago despues de la demo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Conseguir los servicios
+Para iniciar un servicio en debemos ir a su pagina principal y pulsar arriba a la derecha en "Comienza ahora"
+!(C:\Users\Alumno\Desktop\1)
 
-```markdown
-Syntax highlighted code block
+Ahora elegimos los servicios que queramos
+!(C:\Users\Alumno\Desktop\2)
 
-# Header 1
-## Header 2
-### Header 3
+Una vez elijamos creamos una cuenta nueva
+!(C:\Users\Alumno\Desktop\3)
 
-- Bulleted
-- List
+Ahora ponemos la url de nuestra empresa y su nombre
+!(C:\Users\Alumno\Desktop\4)
 
-1. Numbered
-2. List
+Y ya estariamos dentro del servicio
+!(C:\Users\Alumno\Desktop\5)
 
-**Bold** and _Italic_ and `Code` text
+Esto son los precios si queremos aumentar nuestro nivel
+!(C:\Users\Alumno\Desktop\6)
 
-[Link](url) and ![Image](src)
-```
+Para empezar podemos ir a los informes donde podremos elegir un máximo de 10 informes de lo que queremos que se nos muestre en diferentes campos, si queremos hacer un informe personalizado tendriamos que aumentar el nivel
+!(C:\Users\Alumno\Desktop\7)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Ahora en contactos podremos agregar contactos poniendo su corre,nombre y apellido
+!(C:\Users\Alumno\Desktop\8)
 
-### Jekyll Themes
+En cuanto a como podemos conversar, podemos elegir entre contactar por correo, por un widget de chat en directo en nuestro sitio web o tener conversaciones por Facebook Messenger
+!(C:\Users\Alumno\Desktop\9)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marvinngabu7/Hubspot-Service-Hub-Free/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Si queremos realizar anuncios debemos conectar nuestra cuenta de Facebook que es donde anunciamos
+!(C:\Users\Alumno\Desktop\10)
 
-### Support or Contact
+En cuanto a los servicios, podemos crear tickets para asígnarlos a un miembro de tu equipo para que pueda ofrecer la ayuda adecuada en el momento apropiado
+!(C:\Users\Alumno\Desktop\11)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
